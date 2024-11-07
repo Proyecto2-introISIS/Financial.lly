@@ -6,6 +6,8 @@ Nicolás Daza 202421626
 Juan Pablo Perilla 202422860
 María Camila Rodríguez 202310885
 
+128/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
